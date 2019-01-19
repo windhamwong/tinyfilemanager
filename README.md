@@ -21,6 +21,8 @@ Warning: Please set your own username and password in $auth_users before use.
 
 To enable/disable authentication set $use_auth to true or false.
 
+MD5 Password hash can be generated from: http://www.miraclesalad.com/webtools/md5.php
+
 ### Supported constants:
 
 - `FM_ROOT_PATH` - default is `$_SERVER['DOCUMENT_ROOT']`
